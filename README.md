@@ -4,16 +4,23 @@ This is a RESTful API for an online shopping website built using Java Spring Boo
 This project is a collaborative effort of five members, and contributions are welcome!
 
 # Table of Contents
-Installation
-Usage
-Endpoints
-Contributing
-Credits
-License
-Installation
+#### 1.Installation
+
+#### 2.Usage
+
+#### 3.Endpoints
+
+#### 4.Contributing
+
+#### 5.Credits
+
+#### 6.License
+
+#### 7.Installation
+
 To install the Online Shopping API, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/online-shopping-api.git
+Clone the repository: git clone https://github.com/GAUTAMDEORAZZ/online-shopping-RestApi.git
 Install dependencies: mvn clean install
 Start the server: mvn spring-boot:run
 Access the API at http://localhost:8080
